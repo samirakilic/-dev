@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: rgb(186, 19, 19);
+    
+}
+
+.foto{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border: 2px solid rgb(167, 1, 1);
+
+}
+
+
+#video{
+    height: 150px;
+    width: 300px;
+    margin-left: 40%;
+}
+
+.inline1{
+    background-color: red;
+    color: white;
+}
+
+.border-box{
+    box-sizing: border-box;
+    width: 600px;
+    height: 150px;
+    border: 2px solid red;
+    padding: 25px;
+    margin: 10px 0;
+}
+
+.inline2{
+    background-color: red;
+    color: white;
+}
+
+
+
+
+ul.block li a{
+    display: block;
+    padding: 10px 15px;
+    background-color: white;
+    color: red;
+    line-height: 25px;
+    margin: 2px;
+}
+
+.border-box2{
+    box-sizing: border-box2;
+    width: 600px;
+    height: 300px;
+    border: 2px solid red;
+    padding: 25px;
+    margin: 10px 0;
+}
+
+p#myP{
+    padding: 10px;
+    font-size: 30px;
+    color: red;
+}
+
+.flex-container{
+    display: flex;
+    padding: 20px;
+    border: 2px solid red;
+    flex-wrap: wrap;
+}
+
+
